@@ -1,7 +1,7 @@
 # jukebox
 
 A personal project adapted from [a udemy course](https://www.udemy.com/course/spotify-clone/).
-Check it out here: [records.city](www.records.city)
+Check it out here: [records.city](https://www.records.city)
 
 # To be implemented
 
