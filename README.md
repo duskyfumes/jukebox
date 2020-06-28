@@ -11,4 +11,5 @@ Check it out here: [records.city](https://www.records.city)
 - [ ] Random song generator
 - [ ] Animated wallpaper for the front page
 - [ ] Animated icon for the sidebar
+- [ ] Podcasts
 - [x] Custom favicon
