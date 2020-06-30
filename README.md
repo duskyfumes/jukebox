@@ -12,4 +12,5 @@ Check it out here: [records.city](https://www.records.city)
 - [ ] Animated wallpaper for the front page
 - [ ] Animated icon for the sidebar
 - [ ] Podcasts
+- [ ] Transcripts of podcasts
 - [x] Custom favicon
